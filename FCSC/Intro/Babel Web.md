@@ -52,5 +52,6 @@ drwxr-xr-x 1 root     root     4096 Apr 25 09:00 ..
 -r--r--r-- 1 root     root       89 Apr 25 08:59 flag.php
 -r-xr-xr-x 1 root     root      439 Apr 25 08:59 index.php
 ```
-Je modifie donc le `ls -la` par un : `cat flag.php`, j'affiche le code de la page et voilà un premier challenge déjà de terminé car on obtient le flag :
+Plus qu'à modifier `ls -la` par un : `cat flag.php` pour afficher le code de la page.
+Voilà un premier challenge déjà de terminé car on obtient le flag qui est dans la variable `$flag` :
 `$flag = "FCSC{5d969396bb5592634b31d4f0846d945e4befbb8c470b055ef35c0ac090b9b8b7}";`
