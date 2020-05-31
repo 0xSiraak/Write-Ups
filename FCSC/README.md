@@ -6,4 +6,4 @@ Si je devrais donner un avis global sur le ctf je l'ai trouvé mieux que celui d
 <a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/Babel%20Web.md">Babel Web<a/> - 20 pts<br/>
 <a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/NES%20Forever.md">NES Forever</a> - 20 pts<br/>
 <a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/SuSHi.md">SuSHi</a> - 20 pts<br/>
-<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/Petite%20frappe%201.MD">Petit frappe 1</a> - 2P pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/Petite%20frappe%201.MD">Petit frappe 1</a> - 20 pts<br/>
