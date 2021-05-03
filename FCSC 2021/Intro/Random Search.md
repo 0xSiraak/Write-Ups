@@ -14,4 +14,5 @@ Lien envoyé : `http://challenges2.france-cybersecurity-challenge.fr:5001/index.
 
 On obtient donc le flag (`FCSC%7B4e0451cc88a9a96e7e46947461382008d8c8f4304373b8907964675c27d7c633%7D`) avec des caractères en héxadécimal vers le début et à la fin, on remplace donc `%7D` par `}` et `%7B` par `{`
 
-`Flag : FCSC{4e0451cc88a9a96e7e46947461382008d8c8f4304373b8907964675c27d7c633}`
+# Flag
+FCSC{4e0451cc88a9a96e7e46947461382008d8c8f4304373b8907964675c27d7c633}
