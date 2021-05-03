@@ -10,4 +10,4 @@ Avec un total de 14 challenges validés, si je devrais donner un avis c'est un C
 Voici donc la liste des quelques Write-Up que j'ai rédigé durant cette compétition ainsi que mes félicitations aux participants, en espérant qu'ils soient présent en 2022.
 
 # Intro
-<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/Random%20Search.md">Random Search<a/> - 20 pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC%202021/Intro/Random%20Search.md">Random Search<a/> - 20 pts<br/>
