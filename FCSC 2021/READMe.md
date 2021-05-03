@@ -10,4 +10,8 @@ Avec un total de 14 challenges validés, si je devrais donner un avis c'est un C
 Voici donc la liste des quelques Write-Up que j'ai rédigé durant cette compétition ainsi que mes félicitations aux participants, en espérant qu'ils soient présent en 2022.
 
 # Intro
-<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC%202021/Intro/Random%20Search.md">Random Search<a/> - 20 pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC/Intro/Random%20Search.md">Random Search<a/> - 20 pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC%202021/Intro/Push%20It%20to%20the%20Limit.md">Push It to the Limit<a/> - 20 pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC%202021/Intro/Snake.md">Snake<a/> - 20 pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC%202021/Intro/D%C3%A9r%C3%A8glement.md">Dérèglement<a/> - 20 pts<br/>
+<a href="https://github.com/0xSiraak/Write-Ups/blob/master/FCSC%202021/Intro/Rituel%20en%20chaine.md">Rituel en chaine<a/> - 20 pts<br/>
